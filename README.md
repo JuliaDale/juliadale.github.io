@@ -2,7 +2,7 @@
 
 ## Convolutional Neural Network (CNN) Project: Diagnosing Malaria using Microscopic Images of Red Blood Cells
 - [Performed exploratory data analyses, and applied RGB to HSV and Gaussian blurring pre-processing techniques](https://gist.github.com/JuliaDale/1f902fc1521d66d49c9748f515ddeb30)
-- [Created various CNNs with differing architectures, and applied transfer learning in order to classify images into two categories: parasitized and uninfected](https://gist.github.com/JuliaDale/b683941da8ba76410fc429279862965c)
+- [Created various CNNs with differing architectures, and applied transfer learning in order to classify images into two categories: parasitized cells and uninfected cells](https://gist.github.com/JuliaDale/b683941da8ba76410fc429279862965c)
 - [Explored contrast stretching and histogram equalization pre-processing techniques in order to optimize performance of the models](https://gist.github.com/JuliaDale/12cd1fff7cdd485c6188551ca13b7329)
 
 ## [Regression Project: Boston Housing Price Prediction](file:///Users/ryanburwell/Downloads/Learners_Notebook_Boston_house_price.html)
