@@ -26,5 +26,5 @@
 ## [Decision Tree and Random Forest Project: Predicting Potential Customers of an EdTech Company](file:///Users/ryanburwell/Downloads/Julia_Freed_Classification_PDS.html)
 - created a decision tree model and random forest classifier to help a company identify customers that are most likely to convert
 
-## [Artificial Neural Network](file:///Users/ryanburwell/Downloads/Julia_Freed_ANN.html) and [Convolutional Neural Network] (file:///Users/ryanburwell/Downloads/Julia_Freed_CNN.html) Projects: Digit Recognition of Street View Housing Numbers
+## [Artificial Neural Network](file:///Users/ryanburwell/Downloads/Julia_Freed_ANN.html) and [Convolutional Neural Network](file:///Users/ryanburwell/Downloads/Julia_Freed_CNN.html) Projects: Digit Recognition of Street View Housing Numbers
 - created an ANN and CNN able to identify digits with 80% and 90% accuracy respectively
