@@ -28,3 +28,7 @@
 
 ## [Artificial Neural Network](file:///Users/ryanburwell/Downloads/Julia_Freed_ANN.html) and [Convolutional Neural Network](file:///Users/ryanburwell/Downloads/Julia_Freed_CNN.html) Projects: Digit Recognition of Street View Housing Numbers
 - Created an ANN and CNN able to identify digits with 80% and 90% accuracy respectively
+
+## [Recommendation Systems Project: Amazon Product Recommendation](https://gist.github.com/JuliaDale/f37a20465c8f38872733ee28a9b9445f)
+- Created both user-user and item-item based collaborative filtering with KNN clusterings. 
+- Built a recommendation system using matrix factorization, specifically single value decomposition (SVD). 
