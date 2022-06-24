@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Julia Freed Portfolio
 
-You can use the [editor on GitHub](https://github.com/JuliaDale/juliadale.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Convolutional Neural Network (CNN) Project: Diagnosing Malaria using Microscopic Images of Red Blood Cells
+- [performed exploratory data analyses, and applied RGB to HSV and Gaussian blurring pre-processing techniques](https://gist.github.com/JuliaDale/1f902fc1521d66d49c9748f515ddeb30)
+- [created various CNNs with differing architectures, and applied transfer learning in order to classify images into two categories: parasitized and uninfected] (https://gist.github.com/JuliaDale/b683941da8ba76410fc429279862965c)
+- [explored contrast stretching and histogram equalization pre-processing techniques in order to optimize performance of the models](https://gist.github.com/JuliaDale/12cd1fff7cdd485c6188551ca13b7329)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [Regression Project: Boston Housing Price Prediction](file:///Users/ryanburwell/Downloads/Learners_Notebook_Boston_house_price.html)
+- performed exploratory data analyses, including univariate and bivariate analyses
+- removed multicollinearity and insignificant features
+- created a linear regression model able to predict house prices in Boston based on multiple factors
 
-### Markdown
+## [Unsupervised Learning Project: Segmenting Banking Customers](file:///Users/ryanburwell/Downloads/Learner_Notebook_Unsupervised_Learning_Project.html) 
+- applied K- means clustering, Gaussian mixture model, and K- medoids clustering to identify three different groups of banking customers based on their spending patterns and bank interactions 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## [PCA and t-SNE Project: Identifying Vehicle Types](file:///Users/ryanburwell/Downloads/Learner_Notebook_PCA_and_tSNE_Project.html)
+- applied PCA and t-SNE in order to reduce dimensionality and group various types of vehicles
 
-```markdown
-Syntax highlighted code block
+## [Classification Project: Predicting Hotel Cancellations](file:///Users/ryanburwell/Downloads/Learner_Notebook_Project_Classification_ML.html)
+- created a logistic regression model and K- nearest neighbor (K-NN) model in order to determine which guests are likely to cancel their reservation based on a variety of factors
 
-# Header 1
-## Header 2
-### Header 3
+## [Time Series Project: Forecasting Amazon Stock Prices](file:///Users/ryanburwell/Downloads/Julia_Freed_Time_Series.html)
+- decomposed the time series components into trend, seasonality and residual 
+- created AR, MA, ARMA, and ARIMA models in order to forecast Amazon stock prices
 
-- Bulleted
-- List
+## [Decision Tree and Random Forest Project: Predicting Potential Customers of an EdTech Company](file:///Users/ryanburwell/Downloads/Julia_Freed_Classification_PDS.html)
+- created a decision tree model and random forest classifier to help a company identify customers that are most likely to convert
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JuliaDale/juliadale.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## [Artificial Neural Network](file:///Users/ryanburwell/Downloads/Julia_Freed_ANN.html) and [Convolutional Neural Network] (file:///Users/ryanburwell/Downloads/Julia_Freed_CNN.html) Projects: Digit Recognition of Street View Housing Numbers
+- created an ANN and CNN able to identify digits with 80% and 90% accuracy respectively
