@@ -1,9 +1,11 @@
 # Julia Freed Portfolio
 
 ## Convolutional Neural Network (CNN) Project: Diagnosing Malaria using Microscopic Images of Red Blood Cells
+- Successfully developed a deep learning machine algorithm able to accurately classify images of red blood cells to diagnose malaria with 98.65% accuracy. 
 - [Performed exploratory data analyses, and applied RGB to HSV and Gaussian blurring pre-processing techniques](https://gist.github.com/JuliaDale/1f902fc1521d66d49c9748f515ddeb30)
 - [Created various CNNs with differing architectures, and applied transfer learning in order to classify images into two categories: parasitized cells and uninfected cells](https://gist.github.com/JuliaDale/b683941da8ba76410fc429279862965c)
 - [Explored contrast stretching and histogram equalization pre-processing techniques in order to optimize performance of the models](https://gist.github.com/JuliaDale/12cd1fff7cdd485c6188551ca13b7329)
+- [Created a presentation sharing my findings and results](https://docs.google.com/presentation/d/1H-fjJ4YdpcWvZLbXw5StWorAfqCtIv2NZVShaGRXMSo/edit?usp=sharing)
 
 ## [Regression Project: Boston Housing Price Prediction](https://gist.github.com/JuliaDale/a7ab9e3f29d15d71f4c2b83ad5796afa)
 - Performed exploratory data analyses, including univariate and bivariate analyses
